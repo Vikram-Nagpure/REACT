@@ -7,10 +7,7 @@ function Header(){
                 <li style={{padding:"10px"}}>HOME</li>
                 <li style={{padding:"10px"}}>ABOUT</li>
                 <li style={{padding:"10px"}}>CONTEACT</li>
-            </ul>
-            
-        
-            
+            </ul>   
         </div>
     )
 }
